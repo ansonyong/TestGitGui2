@@ -7,3 +7,4 @@ Clone Test Git Gui write line 2
 Clone Test Git Gui write line 3
 Clone Test Git Gui write line 4
 Clone Test Git Gui write line 5
+Clone Test Git Gui write line 6
