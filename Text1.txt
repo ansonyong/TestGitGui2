@@ -1,6 +1,7 @@
 master: text 1
 master: Text 1 second line
 master: Text 1 3rd line
+master: Text 1 4th line
 Clone Test Git Gui write line 1
 Clone Test Git Gui write line 2
 Clone Test Git Gui write line 3
