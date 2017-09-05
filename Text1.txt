@@ -1,3 +1,4 @@
 master: text 1
 master: Text 1 second line
 Clone Test Git Gui write line 1
+Clone Test Git Gui write line 2
